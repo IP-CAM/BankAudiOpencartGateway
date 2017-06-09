@@ -1,0 +1,9 @@
+Upload the contents of upload folder to your site via ftp .
+Go to admin > payments 
+Find "Bank Audi Payment " 
+You will need to enter these three values from your bank audi merchant account.
+Access Code 
+Secure Secret
+Merchant id
+You can obtain these values from bank audi merchant account or you can contact their support for these values.
+For any issue contact support@iextendlabs.com
